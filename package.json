@@ -1,7 +1,7 @@
 {
   "name": "v2-api.mathflare",
   "version": "1.0.0",
-  "description": "",
+  "description": "MathFlare API Version 2.0",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/mathflare/v2-api.mathflare.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "MathFlare LLC.",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mathflare/v2-api.mathflare/issues"
   },
