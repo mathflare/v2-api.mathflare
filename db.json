@@ -1,26 +1,33 @@
 {
-  "thirtydeg": {
-    "Deg": "30°",
-    "Sin": "1⁄2",
-    "Cos": "√3 ÷ 2",
-    "Tan": "√3 ÷ 3"
-  },
-  "fourtyfivedeg": {
-    "Deg": "45°",
-    "Sin": "√2 ÷ 2",
-    "Cos": "√2 ÷ 2",
-    "Tan": "1"
-  },
-  "sixtydeg": {
-    "Deg": "60°",
-    "Sin": "√3 ÷ 2",
-    "Cos": "√3 ÷ 2",
-    "Tan": "√3 ÷ 3"
-  },
-  "ninetydeg": {
-    "Deg": "90°",
-    "Sin": "1",
-    "Cos": "0",
-    "Tan": "-"
-  }
+    "trignums": [
+        {
+            "thirtydeg": {
+                "Deg": "30°",
+                "Sin": "1⁄2",
+                "Cos": "√3 ÷ 2",
+                "Tan": "√3 ÷ 3"
+              },
+              "fourtyfivedeg": {
+                "Deg": "45°",
+                "Sin": "√2 ÷ 2",
+                "Cos": "√2 ÷ 2",
+                "Tan": "1"
+              },
+              "sixtydeg": {
+                "Deg": "60°",
+                "Sin": "√3 ÷ 2",
+                "Cos": "√3 ÷ 2",
+                "Tan": "√3 ÷ 3"
+              },
+              "ninetydeg": {
+                "Deg": "90°",
+                "Sin": "1",
+                "Cos": "0",
+                "Tan": "-"
+              }
+        }
+    ],
+    "testing": {
+        "Message": "Hello"
+    }
 }
